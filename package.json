@@ -1,18 +1,33 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@f1stnpm2/mollitia-harum-minima",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "f1st",
   "license": "MIT",
+  "dependencies": {
+    "@diahkomalasarinpm/odio-facilis-beatae": "^1.0.0",
+    "@f1stnpm/corporis-velit-deleniti-temporibus": "^1.0.0",
+    "@f1stnpm/dolor-officia-est-asperiores": "^1.0.0",
+    "@f1stnpm/ea-sunt-delectus-nihil": "^1.0.0",
+    "@f1stnpm/eius-ab-blanditiis-voluptas": "^1.0.0",
+    "@f1stnpm/molestias-sint-cupiditate-illum": "^1.0.0",
+    "@f1stnpm/repellat-eveniet-pariatur-voluptas": "^1.0.0",
+    "@f1stnpm/tenetur-dicta-praesentium-explicabo": "^1.0.0",
+    "@f1stnpm/vitae-blanditiis-sint-tempore": "^1.0.0",
+    "@f1stnpm2/repudiandae-numquam-exercitationem": "^1.0.0",
+    "@wemnyelezxnpm/neque-eligendi-dolorem": "^1.0.0"
+  },
+  "keywords": [
+    "tap"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/f1stnpm2/mollitia-harum-minima.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/f1stnpm2/mollitia-harum-minima/#readme",
+  "bugs": {
+    "url": "https://github.com/f1stnpm2/mollitia-harum-minima/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
